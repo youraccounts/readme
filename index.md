@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
-You can use the [editor on GitHub](https://github.com/youraccounts/readme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=d42932&size=24&width=500&lines=Hello+!!+I+am+Sophat,I'm+from+Cambodia+;also+a+Developer+from+TURBOTECH;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nintreapage) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/Ahphnek3) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sophatleat) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/sophat)
 
-### Markdown
+## 🎧 Spotify Playing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![Classic Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5TNuvf8y7Y3QLXsNaIYCYX?si=dd7ab7a243904342) [![Classic Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6jUQ3jynYE1zTjXfipjS62?si=22175be6167040fb)
 
-```markdown
-Syntax highlighted code block
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/erufrsyi5ok94iw22o3060jfc)
 
-# Header 1
-## Header 2
-### Header 3
+## 🔧 Technologies
 
-- Bulleted
-- List
+![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Windows](https://img.icons8.com/color/30/windows-10.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 🍀 Sponsors and Supporters
 
-[Link](url) and ![Image](src)
-```
+[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/sophat) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://app.gitbook.com/@sophat) 
+and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youraccounts/readme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=youraccounts)
+
+</details>
+
+<details>
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts&show_icons=true&theme=radical)
+
+</details>
